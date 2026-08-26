@@ -1,0 +1,298 @@
+dest_id,state,destination,county,mie,seasonal,n_seasons,lodging_min,lodging_max,daily_min,daily_max
+0,CONUS,Standard CONUS,All counties not specifically listed,68,False,1,110,110,178,178
+1,AL,Birmingham,Jefferson,80,False,1,126,126,206,206
+2,AL,Gulf Shores,Baldwin,74,True,4,134,216,208,290
+3,AL,Huntsville,Madison,74,True,3,134,141,208,215
+6,AR,Hot Springs,Garland,68,False,1,114,114,182,182
+8,AZ,Kayenta,Navajo,74,False,1,145,145,219,219
+9,AZ,Grand Canyon / Flagstaff,Coconino / Yavapai less the city of Sedona,80,True,3,110,144,190,224
+10,AZ,Phoenix / Scottsdale,Maricopa,86,True,5,113,229,199,315
+11,AZ,Sedona,City Limits of Sedona,92,True,5,164,274,256,366
+12,AZ,Tucson,Pima,80,True,3,123,171,203,251
+14,CA,Antioch / Brentwood / Concord,Contra Costa,86,False,1,147,147,233,233
+16,CA,Barstow / Ontario / Victorville,San Bernardino,86,False,1,124,124,210,210
+20,CA,Death Valley,Inyo / NAWS China Lake,80,False,1,142,142,222,222
+21,CA,Fresno,Fresno,86,False,1,129,129,215,215
+22,CA,Los Angeles,Los Angeles / Orange / Ventura / Edwards AFB less the city of Santa Monica,86,False,1,191,191,277,277
+23,CA,Mammoth Lakes,Mono,86,True,3,139,195,225,281
+24,CA,Mill Valley / San Rafael / Novato,Marin,92,True,2,153,175,245,267
+26,CA,Monterey,Monterey,92,True,4,191,279,283,371
+27,CA,Napa,Napa,92,True,3,172,246,264,338
+28,CA,Oakhurst,Madera ,80,False,1,135,135,215,215
+29,CA,Oakland,Alameda,92,False,1,145,145,237,237
+30,CA,Palm Springs,Riverside,86,True,2,141,186,227,272
+31,CA,Point Arena / Gualala,Mendocino,86,False,1,129,129,215,215
+33,CA,Sacramento,Sacramento,86,False,1,150,150,236,236
+34,CA,San Diego,San Diego,86,True,3,199,237,285,323
+35,CA,San Francisco,San Francisco,92,True,3,259,272,351,364
+36,CA,San Luis Obispo,San Luis Obispo,86,True,3,163,203,249,289
+37,CA,San Mateo / Foster City / Belmont,San Mateo,86,False,1,183,183,269,269
+38,CA,Santa Barbara,Santa Barbara,92,True,3,205,262,297,354
+39,CA,Santa Cruz,Santa Cruz,86,True,3,139,176,225,262
+40,CA,Santa Monica ,City limits of Santa Monica,92,False,1,273,273,365,365
+41,CA,Santa Rosa,Sonoma,86,False,1,157,157,243,243
+42,CA,South Lake Tahoe,El Dorado,86,True,5,141,247,227,333
+43,CA,Stockton ,San Joaquin,74,False,1,132,132,206,206
+44,CA,Sunnyvale / Palo Alto / San Jose,Santa Clara,92,False,1,192,192,284,284
+45,CA,Tahoe City,Placer,86,False,1,131,131,217,217
+46,CA,Truckee,Nevada ,86,True,5,142,173,228,259
+47,CA,Visalia,Tulare,80,False,1,131,131,211,211
+48,CA,West Sacramento / Davis,Yolo,80,False,1,142,142,222,222
+49,CA,Yosemite National Park,Mariposa,86,True,3,181,203,267,289
+50,CO,Aspen,Pitkin,92,True,3,207,407,299,499
+52,CO,Boulder / Broomfield,Boulder / Broomfield,80,True,3,125,173,205,253
+53,CO,Colorado Springs,El Paso,86,True,3,123,168,209,254
+54,CO,Cortez,Montezuma,74,True,3,110,133,184,207
+55,CO,Crested Butte / Gunnison,Gunnison,86,False,1,154,154,240,240
+56,CO,Denver / Aurora,Denver / Adams / Arapahoe / Jefferson,92,True,3,165,215,257,307
+57,CO,Durango,La Plata,80,True,2,121,184,201,264
+58,CO,Fort Collins / Loveland,Larimer,80,True,3,110,140,190,220
+61,CO,Montrose,Montrose,74,True,3,136,185,210,259
+63,CO,Silverthorne / Breckenridge,Summit,92,True,3,162,282,254,374
+64,CO,Steamboat Springs,Routt,92,True,4,123,288,215,380
+65,CO,Telluride,San Miguel,92,True,3,184,350,276,442
+66,CO,Vail,Eagle,92,True,3,201,397,293,489
+67,CT,Bridgeport / Danbury,Fairfield,86,False,1,146,146,232,232
+69,CT,Hartford,Hartford,80,False,1,138,138,218,218
+71,CT,New Haven,New Haven,80,False,1,130,130,210,210
+72,CT,New London / Groton,New London,86,False,1,124,124,210,210
+75,DC,District of Columbia,"Washington DC (also the cities of Alexandria, Falls Church and Fairfax, and the counties of Arlington and Fairfax, in Virginia; and the counties of Montgomery and Prince George's in Maryland)",92,True,5,183,276,275,368
+77,DE,Lewes,Sussex,74,True,3,124,221,198,295
+78,DE,Wilmington,New Castle,74,False,1,127,127,201,201
+80,FL,Bradenton,Manatee,80,True,3,145,225,225,305
+81,FL,Cocoa Beach,Brevard,74,True,3,166,208,240,282
+82,FL,Daytona Beach,Volusia,80,True,4,116,157,196,237
+83,FL,Fort Walton Beach / De Funiak Springs,Okaloosa / Walton,86,True,5,110,260,196,346
+84,FL,Fort Lauderdale,Broward,86,True,3,143,224,229,310
+85,FL,Fort Myers,Lee,80,True,3,139,216,219,296
+89,FL,Gulf Breeze,Santa Rosa,74,True,4,124,214,198,288
+91,FL,Key West,Monroe,86,True,4,258,436,344,522
+95,FL,Miami,Miami-Dade,92,True,5,145,232,237,324
+96,FL,Naples,Collier,80,True,4,164,314,244,394
+98,FL,Orlando,Orange,80,True,3,140,169,220,249
+99,FL,Boca Raton / Delray Beach / Jupiter,Palm Beach / Hendry,86,True,3,143,244,229,330
+100,FL,Panama City,Bay,80,True,4,110,194,190,274
+101,FL,Pensacola ,Escambia,74,True,4,120,190,194,264
+102,FL,Punta Gorda,Charlotte,74,True,3,124,192,198,266
+103,FL,Sarasota,Sarasota,86,True,3,131,205,217,291
+104,FL,Sebring,Highlands,74,True,3,126,219,200,293
+105,FL,St. Augustine,St. Johns,80,True,3,151,170,231,250
+106,FL,Stuart,Martin,80,True,3,129,214,209,294
+107,FL,Tallahassee,Leon,80,True,3,113,138,193,218
+108,FL,Tampa / St. Petersburg,Pinellas / Hillsborough,80,True,3,148,200,228,280
+109,FL,Vero Beach,Indian River,74,True,3,181,259,255,333
+110,GA,Athens,Clarke,74,False,1,136,136,210,210
+111,GA,Atlanta,Fulton / Dekalb,86,True,3,182,197,268,283
+115,GA,Jekyll Island / Brunswick,Glynn,86,True,3,172,223,258,309
+116,GA,Savannah,Chatham,80,True,3,147,176,227,256
+118,IA,Des Moines,Polk,80,False,1,121,121,201,201
+120,ID,Coeur d'Alene,Kootenai,74,True,3,142,217,216,291
+122,ID,Sun Valley / Ketchum,Blaine / Elmore,80,True,4,181,300,261,380
+123,IL,Chicago,Cook / Lake,92,True,5,142,234,234,326
+124,IL,Oak Brook Terrace,DuPage,80,False,1,115,115,195,195
+127,IN,Bloomington ,Monroe,74,True,3,110,139,184,213
+130,IN,Indianapolis / Carmel,Marion / Hamilton,80,False,1,133,133,213,213
+131,IN,Lafayette / West Lafayette,Tippecanoe,74,True,2,123,143,197,217
+137,KS,Kansas City / Overland Park,Wyandotte / Johnson / Leavenworth,80,False,1,135,135,215,215
+139,KY,Boone,Boone,68,False,1,116,116,184,184
+140,KY,Lexington,Fayette,80,False,1,118,118,198,198
+141,KY,Louisville,Jefferson,80,True,5,120,164,200,244
+144,LA,New Orleans,Orleans / Jefferson Parishes,80,True,4,133,179,213,259
+147,MA,Andover,Essex,80,False,1,137,137,217,217
+148,MA,Boston / Cambridge,"Suffolk, city of Cambridge",92,True,4,209,349,301,441
+149,MA,Burlington / Woburn,Middlesex less the city of Cambridge,86,True,3,144,178,230,264
+150,MA,Falmouth,City limits of Falmouth,86,True,3,142,253,228,339
+151,MA,Hyannis,Barnstable less the city of Falmouth,92,True,3,131,209,223,301
+152,MA,Martha's Vineyard,Dukes,92,True,2,196,462,288,554
+153,MA,Nantucket,Nantucket,92,True,2,175,471,267,563
+154,MA,Northampton,Hampshire,80,False,1,157,157,237,237
+155,MA,Pittsfield,Berkshire,86,True,3,136,178,222,264
+156,MA,Plymouth / Taunton / New Bedford,Plymouth / Bristol,80,False,1,126,126,206,206
+157,MA,Quincy,Norfolk,80,True,3,139,175,219,255
+158,MA,Springfield,Hampden,74,False,1,128,128,202,202
+160,MA,Worcester,Worcester,80,False,1,135,135,215,215
+161,MD,Aberdeen / Bel Air / Belcamp,Harford,74,False,1,113,113,187,187
+162,MD,Annapolis,Anne Arundel,80,True,3,125,161,205,241
+163,MD,Baltimore City,Baltimore City,86,False,1,150,150,236,236
+164,MD,Cambridge / St. Michaels,Dorchester / Talbot,80,True,3,145,186,225,266
+165,MD,Columbia,Howard,86,False,1,113,113,199,199
+170,MD,Ocean City,Worcester,80,True,3,115,295,195,375
+171,ME,Bar Harbor / Rockport,Hancock / Knox,92,True,5,128,304,220,396
+172,ME,Kennebunk / Kittery / Sanford,York ,86,True,4,119,201,205,287
+173,ME,Portland,Cumberland / Sagadahoc,80,True,4,114,211,194,291
+175,MI,Ann Arbor,Washtenaw,80,True,3,125,146,205,226
+178,MI,Detroit,Wayne,74,False,1,152,152,226,226
+183,MI,Grand Rapids,Kent,80,False,1,119,119,199,199
+184,MI,Holland,Ottawa,74,True,3,116,157,190,231
+187,MI,Mackinac Island,Mackinac,86,True,3,120,195,206,281
+188,MI,Midland,Midland,74,False,1,120,120,194,194
+190,MI,Muskegon,Muskegon,68,True,3,110,149,178,217
+192,MI,Petoskey,Emmet,86,True,4,116,220,202,306
+193,MI,Pontiac / Auburn Hills ,Oakland,80,False,1,116,116,196,196
+195,MI,South Haven,Van Buren,68,True,3,110,142,178,210
+196,MI,Traverse City,Grand Traverse,80,True,3,134,235,214,315
+199,MN,Duluth,St. Louis,86,True,3,159,220,245,306
+201,MN,Minneapolis / St. Paul,Hennepin / Ramsey,92,False,1,148,148,240,240
+202,MN,Rochester,Olmsted,80,False,1,127,127,207,207
+204,MO,Kansas City,Jackson / Clay / Cass / Platte,80,False,1,135,135,215,215
+207,MO,St. Louis,St. Louis / St. Louis City / St. Charles,86,False,1,150,150,236,236
+211,MS,Starkville ,Oktibbeha,68,False,1,125,125,193,193
+213,MT,Missoula,Missoula,74,True,2,130,195,204,269
+215,MT,Big Sky / West Yellowstone/Gardiner,Gallatin/Park,80,True,2,176,310,256,390
+216,NC,Asheville ,Buncombe,80,True,2,120,141,200,221
+217,NC,Atlantic Beach / Morehead City,Carteret,74,True,3,123,178,197,252
+218,NC,Chapel Hill,Orange,80,False,1,140,140,220,220
+219,NC,Charlotte,Mecklenburg,80,False,1,131,131,211,211
+221,NC,Durham,Durham,74,False,1,121,121,195,195
+222,NC,Greensboro,Guilford,74,True,3,112,123,186,197
+224,NC,Kill Devil Hills,Dare,74,True,4,133,254,207,328
+227,NC,Raleigh,Wake,74,False,1,131,131,205,205
+229,NC,Wilmington,New Hanover,74,True,3,110,147,184,221
+231,NE,Omaha,Douglas,80,False,1,122,122,202,202
+232,NH,Concord,Merrimack,74,False,1,124,124,198,198
+233,NH,Conway,Caroll,80,True,4,118,161,198,241
+234,NH,Durham,Strafford,74,True,3,125,152,199,226
+235,NH,Laconia,Belknap,74,True,3,140,182,214,256
+236,NH,Lebanon / Lincoln / West Lebanon,Grafton,74,True,3,142,177,216,251
+237,NH,Manchester,Hillsborough,74,False,1,130,130,204,204
+238,NH,Portsmouth,Rockingham,74,True,4,129,192,203,266
+241,NJ,Cherry Hill / Moorestown,Camden / Burlington,80,False,1,112,112,192,192
+242,NJ,Eatontown / Freehold,Monmouth,86,False,1,146,146,232,232
+243,NJ,Edison / Piscataway,Middlesex ,80,False,1,122,122,202,202
+244,NJ,Flemington,Hunterdon,80,False,1,124,124,204,204
+246,NJ,Newark,Essex / Bergen / Hudson / Passaic,86,False,1,156,156,242,242
+247,NJ,Parsippany,Morris,80,False,1,143,143,223,223
+248,NJ,Somerset,Somerset,80,False,1,138,138,218,218
+249,NJ,Princeton / Trenton,Mercer,86,False,1,138,138,224,224
+250,NJ,Springfield / Cranford / New Providence,Union,80,False,1,139,139,219,219
+251,NJ,Toms River,Ocean,74,True,3,166,213,240,287
+252,NM,Albuquerque,Bernalillo,80,False,1,144,144,224,224
+254,NM,Santa Fe,Santa Fe,80,True,4,122,167,202,247
+255,NV,Incline Village / Reno / Sparks,Washoe,80,True,3,138,184,218,264
+256,NV,Las Vegas,Clark,86,True,3,126,159,212,245
+258,NY,Albany,Albany,86,False,1,117,117,203,203
+260,NY,Buffalo,Erie,80,True,3,126,139,206,219
+261,NY,Floral Park / Garden City / Great Neck,Nassau,86,False,1,164,164,250,250
+262,NY,Glens Falls,Warren,86,True,3,117,186,203,272
+264,NY,Kingston,Ulster,86,False,1,139,139,225,225
+265,NY,Lake Placid,Essex,86,True,4,144,238,230,324
+266,NY,New York City,Bronx / Kings / New York / Queens / Richmond,92,True,5,179,342,271,434
+267,NY,Niagara Falls,Niagara,80,True,3,110,142,190,222
+268,NY,Nyack / Palisades,Rockland,80,False,1,129,129,209,209
+269,NY,Binghamton,Broome,74,False,1,117,117,191,191
+270,NY,Poughkeepsie,Dutchess,80,False,1,115,115,195,195
+271,NY,Riverhead / Ronkonkoma / Melville,Suffolk,86,False,1,155,155,241,241
+272,NY,Rochester,Monroe,80,False,1,132,132,212,212
+273,NY,Saratoga Springs / Schenectady,Saratoga / Schenectady,80,True,3,126,214,206,294
+274,NY,Syracuse / Oswego,Onondaga / Oswego,80,False,1,122,122,202,202
+275,NY,Tarrytown / White Plains / New Rochelle,Westchester,92,False,1,161,161,253,253
+276,NY,Troy ,Rensselaer,80,False,1,121,121,201,201
+277,NY,Ithaca,Tompkins,80,False,1,144,144,224,224
+278,NY,West Point,Orange,80,False,1,123,123,203,203
+280,OH,Sandusky,Erie,68,True,3,116,144,184,212
+282,OH,Cincinnati,Hamilton / Clermont,86,False,1,163,163,249,249
+283,OH,Cleveland,Cuyahoga,80,False,1,159,159,239,239
+284,OH,Columbus,Franklin,80,False,1,131,131,211,211
+285,OH,Dayton / Fairborn,Greene / Montgomery,74,False,1,115,115,189,189
+287,OH,Hamilton,Butler / Warren,74,False,1,124,124,198,198
+295,OK,Oklahoma City,Oklahoma,80,False,1,116,116,196,196
+298,OR,Beaverton,Washington,80,False,1,132,132,212,212
+299,OR,Bend,Deschutes,86,True,3,125,192,211,278
+300,OR,Clackamas,Clackamas,80,False,1,136,136,216,216
+302,OR,Eugene / Florence,Lane,80,True,3,132,192,212,272
+304,OR,Lincoln City,Lincoln,92,True,3,120,167,212,259
+305,OR,Portland,Multnomah,86,False,1,155,155,241,241
+306,OR,Seaside,Clatsop,86,True,3,141,236,227,322
+307,PA,Allentown / Easton / Bethlehem,Lehigh / Northampton,74,False,1,115,115,189,189
+309,PA,Chester / Radnor / Essington,Delaware,80,False,1,127,127,207,207
+311,PA,Gettysburg,Adams,68,True,3,110,122,178,190
+312,PA,Harrisburg,Dauphin County excluding Hershey,74,False,1,124,124,198,198
+313,PA,Bucks,Bucks,80,False,1,119,119,199,199
+314,PA,Lancaster,Lancaster,74,False,1,123,123,197,197
+315,PA,Malvern / Frazer / Berwyn,Chester,80,False,1,118,118,198,198
+317,PA,Philadelphia,Philadelphia,92,True,4,156,218,248,310
+318,PA,Pittsburgh,Allegheny,80,False,1,138,138,218,218
+319,PA,Reading,Berks,74,False,1,117,117,191,191
+321,PA,State College ,Centre,74,False,1,124,124,198,198
+323,RI,Jamestown / Middletown / Newport,Newport ,80,True,4,141,268,221,348
+325,RI,Providence / Bristol,Providence / Bristol,80,False,1,154,154,234,234
+326,SC,Charleston,Charleston / Berkeley / Dorchester,92,True,4,218,288,310,380
+327,SC,Columbia,Richland / Lexington,74,False,1,115,115,189,189
+329,SC,Hilton Head,Beaufort,80,True,5,118,215,198,295
+330,SC,Myrtle Beach,Horry,74,True,4,110,182,184,256
+332,SD,Hot Springs,Fall River / Custer,74,True,2,110,161,184,235
+333,SD,Rapid City,Pennington,74,True,3,110,158,184,232
+334,SD,Deadwood / Spearfish ,Lawrence,80,True,3,110,140,190,220
+335,TN,Brentwood / Franklin,Williamson,86,False,1,130,130,216,216
+336,TN,Chattanooga ,Hamilton,74,False,1,117,117,191,191
+338,TN,Knoxville,Knox,74,False,1,119,119,193,193
+339,TN,Memphis,Shelby,74,False,1,129,129,203,203
+340,TN,Nashville,Davidson,86,True,3,217,248,303,334
+342,TX,Arlington / Fort Worth / Grapevine,Tarrant County / City of Grapevine,80,False,1,181,181,261,261
+343,TX,Austin,Travis,80,True,3,173,187,253,267
+346,TX,Dallas,Dallas ,80,True,3,170,191,250,271
+348,TX,Galveston,Galveston,74,True,3,111,146,185,220
+350,TX,Houston,Montgomery / Fort Bend / Harris,80,False,1,128,128,208,208
+354,TX,Plano,Collin,80,False,1,123,123,203,203
+356,TX,San Antonio,Bexar,74,True,3,137,161,211,235
+357,TX,South Padre Island,Cameron,74,True,3,118,140,192,214
+360,UT,Park City,Summit,92,True,3,221,483,313,575
+361,UT,Provo,Utah,74,False,1,117,117,191,191
+362,UT,Salt Lake City,Salt Lake / Tooele,80,False,1,142,142,222,222
+363,VA,Charlottesville,City of Charlottesville / Albemarle,80,False,1,136,136,216,216
+365,VA,Lynchburg,Campbell / Lynchburg City,68,True,3,110,115,178,183
+368,VA,Richmond,City of Richmond,80,False,1,157,157,237,237
+369,VA,Roanoke,City limits of Roanoke,74,False,1,119,119,193,193
+371,VA,Virginia Beach,City of Virginia Beach,74,True,3,124,210,198,284
+372,VA,Wallops Island,Accomack,68,True,3,131,248,199,316
+374,VA,Williamsburg / York,James City / York Counties / City of Williamsburg,80,True,4,110,134,190,214
+377,VT,Burlington,Chittenden,86,True,3,128,202,214,288
+378,VT,Manchester,Bennington,86,True,3,168,220,254,306
+379,VT,Montpelier,Washington,74,True,3,167,227,241,301
+380,VT,Stowe ,Lamoille,86,True,3,148,185,234,271
+381,VT,White River Junction,Windsor,86,False,1,144,144,230,230
+384,WA,Everett / Lynnwood,Snohomish,86,True,3,113,140,199,226
+385,WA,Ocean Shores,Grays Harbor,86,True,3,110,132,196,218
+386,WA,Olympia / Tumwater,Thurston,80,True,4,128,175,208,255
+387,WA,Port Angeles / Port Townsend,Clallam / Jefferson,92,True,3,137,235,229,327
+389,WA,Seattle,King,92,True,2,188,248,280,340
+390,WA,Spokane,Spokane,86,False,1,126,126,212,212
+391,WA,Tacoma,Pierce,86,False,1,136,136,222,222
+392,WA,Vancouver,Clark / Cowlitz / Skamania,86,False,1,155,155,241,241
+396,WI,Madison,Dane,80,True,3,110,138,190,218
+397,WI,Milwaukee,Milwaukee,80,False,1,140,140,220,220
+400,WI,Sturgeon Bay,Door,80,True,3,110,133,190,213
+403,WV,Charleston,Kanawha,68,False,1,115,115,183,183
+406,WV,Charles Town,Jefferson,68,False,1,122,122,190,190
+408,WY,Cody,Park,74,True,2,127,190,201,264
+409,WY,Jackson / Pinedale,Teton / Sublette,92,True,2,212,420,304,512
+413,GA,Augusta,Richmond,74,True,3,110,125,184,199
+422,IL,Bolingbrook / Romeoville / Lemont,Will,74,False,1,114,114,188,188
+423,NM,Taos,Taos,74,False,1,128,128,202,202
+426,MT,Helena,Lewis and Clark,74,False,1,132,132,206,206
+427,CO,Douglas ,Douglas,80,True,3,111,142,191,222
+428,VA,Loudoun,Loudoun,80,False,1,115,115,195,195
+435,PA,Montgomery,Montgomery,80,False,1,126,126,206,206
+436,KY,Kenton,Kenton,86,False,1,163,163,249,249
+447,MS,Southaven,Desoto,68,False,1,126,126,194,194
+459,VA,Blacksburg,Montgomery,68,False,1,122,122,190,190
+460,AL,Mobile,Mobile,74,False,1,114,114,188,188
+461,CA,Eureka / Arcata / McKinleyville,Humboldt,86,True,3,125,172,211,258
+462,IL,East St. Louis / O'Fallon / Fairview Heights,St. Clair,86,False,1,150,150,236,236
+464,NC,Fayetteville,Cumberland,68,False,1,124,124,192,192
+471,TX,Midland / Odessa,Midland / Andrews / Ector / Martin,74,True,3,118,132,192,206
+473,MD,Centreville,Queen Anne,74,True,3,121,154,195,228
+474,UT,Moab,Grand,86,True,5,110,221,196,307
+475,WA,Richland / Pasco,Benton / Franklin,86,False,1,130,130,216,216
+476,IA,Dallas,Dallas,80,False,1,115,115,195,195
+477,MS,Oxford,Lafayette,68,False,1,127,127,195,195
+478,LA,Alexandria / Leesville / Natchitoches,Allen / Jefferson Davis / Natchitoches / Rapides / Vernon Parishes,68,False,1,112,112,180,180
+479,NM,Carlsbad,Eddy,74,False,1,155,155,229,229
+481,CA,Bakersfield / Ridgecrest,Kern,74,False,1,132,132,206,206
+486,TX,Big Spring,Howard,68,False,1,114,114,182,182
+489,PA,Hershey,Hershey,80,True,3,145,196,225,276
+492,TX,Pecos,Reeves,74,False,1,121,121,195,195
+493,CO,Grand Lake,Grand,86,True,4,122,173,208,259
+494,GA,Marietta,Cobb,74,False,1,126,126,200,200
+495,ID,Boise,Ada,86,True,3,167,191,253,277
+496,MT,Kalispell/Whitefish,Flathead,80,True,2,124,232,204,312
