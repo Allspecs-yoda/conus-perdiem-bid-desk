@@ -1,0 +1,651 @@
+dest_id,state,destination,county,season_begin,season_end,lodging,mie,daily_cap,seasonal
+0,CONUS,Standard CONUS,All counties not specifically listed,,,110,68,178,False
+1,AL,Birmingham,Jefferson,,,126,80,206,False
+2,AL,Gulf Shores,Baldwin,October 1,February 28,134,74,208,True
+2,AL,Gulf Shores,Baldwin,March 1,May 31,163,74,237,True
+2,AL,Gulf Shores,Baldwin,June 1,July 31,216,74,290,True
+2,AL,Gulf Shores,Baldwin,August 1,September 30,134,74,208,True
+3,AL,Huntsville,Madison,October 1,March 31,141,74,215,True
+3,AL,Huntsville,Madison,April 1,July 31,134,74,208,True
+3,AL,Huntsville,Madison,August 1,September 30,141,74,215,True
+460,AL,Mobile,Mobile,,,114,74,188,False
+6,AR,Hot Springs,Garland,,,114,68,182,False
+9,AZ,Grand Canyon / Flagstaff,Coconino / Yavapai less the city of Sedona,October 1,October 31,144,80,224,True
+9,AZ,Grand Canyon / Flagstaff,Coconino / Yavapai less the city of Sedona,November 1,February 28,110,80,190,True
+9,AZ,Grand Canyon / Flagstaff,Coconino / Yavapai less the city of Sedona,March 1,September 30,144,80,224,True
+8,AZ,Kayenta,Navajo,,,145,74,219,False
+10,AZ,Phoenix / Scottsdale,Maricopa,October 1,January 31,160,86,246,True
+10,AZ,Phoenix / Scottsdale,Maricopa,February 1,March 31,229,86,315,True
+10,AZ,Phoenix / Scottsdale,Maricopa,April 1,May 31,161,86,247,True
+10,AZ,Phoenix / Scottsdale,Maricopa,June 1,August 31,113,86,199,True
+10,AZ,Phoenix / Scottsdale,Maricopa,September 1,September 30,160,86,246,True
+11,AZ,Sedona,City Limits of Sedona,October 1,December 31,213,92,305,True
+11,AZ,Sedona,City Limits of Sedona,January 1,February 28,164,92,256,True
+11,AZ,Sedona,City Limits of Sedona,March 1,April 30,274,92,366,True
+11,AZ,Sedona,City Limits of Sedona,May 1,August 31,183,92,275,True
+11,AZ,Sedona,City Limits of Sedona,September 1,September 30,213,92,305,True
+12,AZ,Tucson,Pima,October 1,December 31,123,80,203,True
+12,AZ,Tucson,Pima,January 1,March 31,171,80,251,True
+12,AZ,Tucson,Pima,April 1,September 30,123,80,203,True
+14,CA,Antioch / Brentwood / Concord,Contra Costa,,,147,86,233,False
+481,CA,Bakersfield / Ridgecrest,Kern,,,132,74,206,False
+16,CA,Barstow / Ontario / Victorville,San Bernardino,,,124,86,210,False
+20,CA,Death Valley,Inyo / NAWS China Lake,,,142,80,222,False
+461,CA,Eureka / Arcata / McKinleyville,Humboldt,October 1,May 31,125,86,211,True
+461,CA,Eureka / Arcata / McKinleyville,Humboldt,June 1,August 31,172,86,258,True
+461,CA,Eureka / Arcata / McKinleyville,Humboldt,September 1,September 30,125,86,211,True
+21,CA,Fresno,Fresno,,,129,86,215,False
+22,CA,Los Angeles,Los Angeles / Orange / Ventura / Edwards AFB less the city of Santa Monica,,,191,86,277,False
+23,CA,Mammoth Lakes,Mono,October 1,November 30,139,86,225,True
+23,CA,Mammoth Lakes,Mono,December 1,March 31,195,86,281,True
+23,CA,Mammoth Lakes,Mono,April 1,September 30,139,86,225,True
+24,CA,Mill Valley / San Rafael / Novato,Marin,October 1,May 31,153,92,245,True
+24,CA,Mill Valley / San Rafael / Novato,Marin,June 1,September 30,175,92,267,True
+26,CA,Monterey,Monterey,October 1,January 31,191,92,283,True
+26,CA,Monterey,Monterey,February 1,June 30,199,92,291,True
+26,CA,Monterey,Monterey,July 1,August 31,279,92,371,True
+26,CA,Monterey,Monterey,September 1,September 30,191,92,283,True
+27,CA,Napa,Napa,October 1,November 30,246,92,338,True
+27,CA,Napa,Napa,December 1,January 31,172,92,264,True
+27,CA,Napa,Napa,February 1,September 30,246,92,338,True
+28,CA,Oakhurst,Madera ,,,135,80,215,False
+29,CA,Oakland,Alameda,,,145,92,237,False
+30,CA,Palm Springs,Riverside,October 1,April 30,186,86,272,True
+30,CA,Palm Springs,Riverside,May 1,September 30,141,86,227,True
+31,CA,Point Arena / Gualala,Mendocino,,,129,86,215,False
+33,CA,Sacramento,Sacramento,,,150,86,236,False
+34,CA,San Diego,San Diego,October 1,May 31,199,86,285,True
+34,CA,San Diego,San Diego,June 1,July 31,237,86,323,True
+34,CA,San Diego,San Diego,August 1,September 30,199,86,285,True
+35,CA,San Francisco,San Francisco,October 1,December 31,272,92,364,True
+35,CA,San Francisco,San Francisco,January 1,August 31,259,92,351,True
+35,CA,San Francisco,San Francisco,September 1,September 30,272,92,364,True
+36,CA,San Luis Obispo,San Luis Obispo,October 1,May 31,163,86,249,True
+36,CA,San Luis Obispo,San Luis Obispo,June 1,July 31,203,86,289,True
+36,CA,San Luis Obispo,San Luis Obispo,August 1,September 30,163,86,249,True
+37,CA,San Mateo / Foster City / Belmont,San Mateo,,,183,86,269,False
+38,CA,Santa Barbara,Santa Barbara,October 1,June 30,205,92,297,True
+38,CA,Santa Barbara,Santa Barbara,July 1,August 31,262,92,354,True
+38,CA,Santa Barbara,Santa Barbara,September 1,September 30,205,92,297,True
+39,CA,Santa Cruz,Santa Cruz,October 1,May 31,139,86,225,True
+39,CA,Santa Cruz,Santa Cruz,June 1,August 31,176,86,262,True
+39,CA,Santa Cruz,Santa Cruz,September 1,September 30,139,86,225,True
+40,CA,Santa Monica ,City limits of Santa Monica,,,273,92,365,False
+41,CA,Santa Rosa,Sonoma,,,157,86,243,False
+42,CA,South Lake Tahoe,El Dorado,October 1,November 30,141,86,227,True
+42,CA,South Lake Tahoe,El Dorado,December 1,March 31,247,86,333,True
+42,CA,South Lake Tahoe,El Dorado,April 1,May 31,143,86,229,True
+42,CA,South Lake Tahoe,El Dorado,June 1,August 31,171,86,257,True
+42,CA,South Lake Tahoe,El Dorado,September 1,September 30,141,86,227,True
+43,CA,Stockton ,San Joaquin,,,132,74,206,False
+44,CA,Sunnyvale / Palo Alto / San Jose,Santa Clara,,,192,92,284,False
+45,CA,Tahoe City,Placer,,,131,86,217,False
+46,CA,Truckee,Nevada ,October 1,November 30,142,86,228,True
+46,CA,Truckee,Nevada ,December 1,February 28,169,86,255,True
+46,CA,Truckee,Nevada ,March 1,May 31,146,86,232,True
+46,CA,Truckee,Nevada ,June 1,August 31,173,86,259,True
+46,CA,Truckee,Nevada ,September 1,September 30,142,86,228,True
+47,CA,Visalia,Tulare,,,131,80,211,False
+48,CA,West Sacramento / Davis,Yolo,,,142,80,222,False
+49,CA,Yosemite National Park,Mariposa,October 1,December 31,181,86,267,True
+49,CA,Yosemite National Park,Mariposa,January 1,April 30,203,86,289,True
+49,CA,Yosemite National Park,Mariposa,May 1,September 30,181,86,267,True
+50,CO,Aspen,Pitkin,October 1,November 30,207,92,299,True
+50,CO,Aspen,Pitkin,December 1,March 31,407,92,499,True
+50,CO,Aspen,Pitkin,April 1,September 30,207,92,299,True
+52,CO,Boulder / Broomfield,Boulder / Broomfield,October 1,October 31,173,80,253,True
+52,CO,Boulder / Broomfield,Boulder / Broomfield,November 1,April 30,125,80,205,True
+52,CO,Boulder / Broomfield,Boulder / Broomfield,May 1,September 30,173,80,253,True
+53,CO,Colorado Springs,El Paso,October 1,May 31,123,86,209,True
+53,CO,Colorado Springs,El Paso,June 1,August 31,168,86,254,True
+53,CO,Colorado Springs,El Paso,September 1,September 30,123,86,209,True
+54,CO,Cortez,Montezuma,October 1,October 31,133,74,207,True
+54,CO,Cortez,Montezuma,November 1,April 30,110,74,184,True
+54,CO,Cortez,Montezuma,May 1,September 30,133,74,207,True
+55,CO,Crested Butte / Gunnison,Gunnison,,,154,86,240,False
+56,CO,Denver / Aurora,Denver / Adams / Arapahoe / Jefferson,October 1,October 31,215,92,307,True
+56,CO,Denver / Aurora,Denver / Adams / Arapahoe / Jefferson,November 1,March 31,165,92,257,True
+56,CO,Denver / Aurora,Denver / Adams / Arapahoe / Jefferson,April 1,September 30,215,92,307,True
+427,CO,Douglas ,Douglas,October 1,May 31,111,80,191,True
+427,CO,Douglas ,Douglas,June 1,August 31,142,80,222,True
+427,CO,Douglas ,Douglas,September 1,September 30,111,80,191,True
+57,CO,Durango,La Plata,October 1,May 31,121,80,201,True
+57,CO,Durango,La Plata,June 1,September 30,184,80,264,True
+58,CO,Fort Collins / Loveland,Larimer,October 1,May 31,110,80,190,True
+58,CO,Fort Collins / Loveland,Larimer,June 1,August 31,140,80,220,True
+58,CO,Fort Collins / Loveland,Larimer,September 1,September 30,110,80,190,True
+493,CO,Grand Lake,Grand,October 1,November 30,145,86,231,True
+493,CO,Grand Lake,Grand,December 1,March 31,173,86,259,True
+493,CO,Grand Lake,Grand,April 1,May 31,122,86,208,True
+493,CO,Grand Lake,Grand,June 1,September 30,145,86,231,True
+61,CO,Montrose,Montrose,October 1,October 31,185,74,259,True
+61,CO,Montrose,Montrose,November 1,May 31,136,74,210,True
+61,CO,Montrose,Montrose,June 1,September 30,185,74,259,True
+63,CO,Silverthorne / Breckenridge,Summit,October 1,November 30,162,92,254,True
+63,CO,Silverthorne / Breckenridge,Summit,December 1,March 31,282,92,374,True
+63,CO,Silverthorne / Breckenridge,Summit,April 1,September 30,162,92,254,True
+64,CO,Steamboat Springs,Routt,October 1,November 30,132,92,224,True
+64,CO,Steamboat Springs,Routt,December 1,March 31,288,92,380,True
+64,CO,Steamboat Springs,Routt,April 1,May 31,123,92,215,True
+64,CO,Steamboat Springs,Routt,June 1,September 30,179,92,271,True
+65,CO,Telluride,San Miguel,October 1,November 30,184,92,276,True
+65,CO,Telluride,San Miguel,December 1,March 31,350,92,442,True
+65,CO,Telluride,San Miguel,April 1,September 30,184,92,276,True
+66,CO,Vail,Eagle,October 1,November 30,201,92,293,True
+66,CO,Vail,Eagle,December 1,March 31,397,92,489,True
+66,CO,Vail,Eagle,April 1,September 30,201,92,293,True
+67,CT,Bridgeport / Danbury,Fairfield,,,146,86,232,False
+69,CT,Hartford,Hartford,,,138,80,218,False
+71,CT,New Haven,New Haven,,,130,80,210,False
+72,CT,New London / Groton,New London,,,124,86,210,False
+75,DC,District of Columbia,"Washington DC (also the cities of Alexandria, Falls Church and Fairfax, and the counties of Arlington and Fairfax, in Virginia; and the counties of Montgomery and Prince George's in Maryland)",October 1,October 31,275,92,367,True
+75,DC,District of Columbia,"Washington DC (also the cities of Alexandria, Falls Church and Fairfax, and the counties of Arlington and Fairfax, in Virginia; and the counties of Montgomery and Prince George's in Maryland)",November 1,February 28,196,92,288,True
+75,DC,District of Columbia,"Washington DC (also the cities of Alexandria, Falls Church and Fairfax, and the counties of Arlington and Fairfax, in Virginia; and the counties of Montgomery and Prince George's in Maryland)",March 1,June 30,276,92,368,True
+75,DC,District of Columbia,"Washington DC (also the cities of Alexandria, Falls Church and Fairfax, and the counties of Arlington and Fairfax, in Virginia; and the counties of Montgomery and Prince George's in Maryland)",July 1,August 31,183,92,275,True
+75,DC,District of Columbia,"Washington DC (also the cities of Alexandria, Falls Church and Fairfax, and the counties of Arlington and Fairfax, in Virginia; and the counties of Montgomery and Prince George's in Maryland)",September 1,September 30,275,92,367,True
+77,DE,Lewes,Sussex,October 1,May 31,124,74,198,True
+77,DE,Lewes,Sussex,June 1,August 31,221,74,295,True
+77,DE,Lewes,Sussex,September 1,September 30,124,74,198,True
+78,DE,Wilmington,New Castle,,,127,74,201,False
+99,FL,Boca Raton / Delray Beach / Jupiter,Palm Beach / Hendry,October 1,December 31,171,86,257,True
+99,FL,Boca Raton / Delray Beach / Jupiter,Palm Beach / Hendry,January 1,April 30,244,86,330,True
+99,FL,Boca Raton / Delray Beach / Jupiter,Palm Beach / Hendry,May 1,September 30,143,86,229,True
+80,FL,Bradenton,Manatee,October 1,January 31,151,80,231,True
+80,FL,Bradenton,Manatee,February 1,March 31,225,80,305,True
+80,FL,Bradenton,Manatee,April 1,September 30,145,80,225,True
+81,FL,Cocoa Beach,Brevard,October 1,January 31,166,74,240,True
+81,FL,Cocoa Beach,Brevard,February 1,March 31,208,74,282,True
+81,FL,Cocoa Beach,Brevard,April 1,September 30,166,74,240,True
+82,FL,Daytona Beach,Volusia,October 1,December 31,116,80,196,True
+82,FL,Daytona Beach,Volusia,January 1,April 30,157,80,237,True
+82,FL,Daytona Beach,Volusia,May 1,July 31,138,80,218,True
+82,FL,Daytona Beach,Volusia,August 1,September 30,116,80,196,True
+84,FL,Fort Lauderdale,Broward,October 1,December 31,172,86,258,True
+84,FL,Fort Lauderdale,Broward,January 1,April 30,224,86,310,True
+84,FL,Fort Lauderdale,Broward,May 1,September 30,143,86,229,True
+85,FL,Fort Myers,Lee,October 1,December 31,139,80,219,True
+85,FL,Fort Myers,Lee,January 1,March 31,216,80,296,True
+85,FL,Fort Myers,Lee,April 1,September 30,139,80,219,True
+83,FL,Fort Walton Beach / De Funiak Springs,Okaloosa / Walton,October 1,October 31,164,86,250,True
+83,FL,Fort Walton Beach / De Funiak Springs,Okaloosa / Walton,November 1,February 28,110,86,196,True
+83,FL,Fort Walton Beach / De Funiak Springs,Okaloosa / Walton,March 1,May 31,184,86,270,True
+83,FL,Fort Walton Beach / De Funiak Springs,Okaloosa / Walton,June 1,July 31,260,86,346,True
+83,FL,Fort Walton Beach / De Funiak Springs,Okaloosa / Walton,August 1,September 30,164,86,250,True
+89,FL,Gulf Breeze,Santa Rosa,October 1,February 28,124,74,198,True
+89,FL,Gulf Breeze,Santa Rosa,March 1,May 31,161,74,235,True
+89,FL,Gulf Breeze,Santa Rosa,June 1,July 31,214,74,288,True
+89,FL,Gulf Breeze,Santa Rosa,August 1,September 30,124,74,198,True
+91,FL,Key West,Monroe,October 1,November 30,269,86,355,True
+91,FL,Key West,Monroe,December 1,January 31,366,86,452,True
+91,FL,Key West,Monroe,February 1,April 30,436,86,522,True
+91,FL,Key West,Monroe,May 1,September 30,258,86,344,True
+95,FL,Miami,Miami-Dade,October 1,November 30,145,92,237,True
+95,FL,Miami,Miami-Dade,December 1,January 31,210,92,302,True
+95,FL,Miami,Miami-Dade,February 1,March 31,232,92,324,True
+95,FL,Miami,Miami-Dade,April 1,May 31,182,92,274,True
+95,FL,Miami,Miami-Dade,June 1,September 30,145,92,237,True
+96,FL,Naples,Collier,October 1,November 30,164,80,244,True
+96,FL,Naples,Collier,December 1,January 31,257,80,337,True
+96,FL,Naples,Collier,February 1,April 30,314,80,394,True
+96,FL,Naples,Collier,May 1,September 30,164,80,244,True
+98,FL,Orlando,Orange,October 1,December 31,140,80,220,True
+98,FL,Orlando,Orange,January 1,March 31,169,80,249,True
+98,FL,Orlando,Orange,April 1,September 30,140,80,220,True
+100,FL,Panama City,Bay,October 1,February 28,110,80,190,True
+100,FL,Panama City,Bay,March 1,May 31,147,80,227,True
+100,FL,Panama City,Bay,June 1,July 31,194,80,274,True
+100,FL,Panama City,Bay,August 1,September 30,110,80,190,True
+101,FL,Pensacola ,Escambia,October 1,February 28,120,74,194,True
+101,FL,Pensacola ,Escambia,March 1,May 31,149,74,223,True
+101,FL,Pensacola ,Escambia,June 1,July 31,190,74,264,True
+101,FL,Pensacola ,Escambia,August 1,September 30,120,74,194,True
+102,FL,Punta Gorda,Charlotte,October 1,January 31,124,74,198,True
+102,FL,Punta Gorda,Charlotte,February 1,March 31,192,74,266,True
+102,FL,Punta Gorda,Charlotte,April 1,September 30,124,74,198,True
+103,FL,Sarasota,Sarasota,October 1,January 31,145,86,231,True
+103,FL,Sarasota,Sarasota,February 1,April 30,205,86,291,True
+103,FL,Sarasota,Sarasota,May 1,September 30,131,86,217,True
+104,FL,Sebring,Highlands,October 1,January 31,126,74,200,True
+104,FL,Sebring,Highlands,February 1,March 31,219,74,293,True
+104,FL,Sebring,Highlands,April 1,September 30,126,74,200,True
+105,FL,St. Augustine,St. Johns,October 1,November 30,151,80,231,True
+105,FL,St. Augustine,St. Johns,December 1,March 31,170,80,250,True
+105,FL,St. Augustine,St. Johns,April 1,September 30,151,80,231,True
+106,FL,Stuart,Martin,October 1,January 31,129,80,209,True
+106,FL,Stuart,Martin,February 1,March 31,214,80,294,True
+106,FL,Stuart,Martin,April 1,September 30,129,80,209,True
+107,FL,Tallahassee,Leon,October 1,December 31,113,80,193,True
+107,FL,Tallahassee,Leon,January 1,April 30,138,80,218,True
+107,FL,Tallahassee,Leon,May 1,September 30,113,80,193,True
+108,FL,Tampa / St. Petersburg,Pinellas / Hillsborough,October 1,January 31,148,80,228,True
+108,FL,Tampa / St. Petersburg,Pinellas / Hillsborough,February 1,April 30,200,80,280,True
+108,FL,Tampa / St. Petersburg,Pinellas / Hillsborough,May 1,September 30,148,80,228,True
+109,FL,Vero Beach,Indian River,October 1,November 30,181,74,255,True
+109,FL,Vero Beach,Indian River,December 1,April 30,259,74,333,True
+109,FL,Vero Beach,Indian River,May 1,September 30,181,74,255,True
+110,GA,Athens,Clarke,,,136,74,210,False
+111,GA,Atlanta,Fulton / Dekalb,October 1,December 31,182,86,268,True
+111,GA,Atlanta,Fulton / Dekalb,January 1,March 31,197,86,283,True
+111,GA,Atlanta,Fulton / Dekalb,April 1,September 30,182,86,268,True
+413,GA,Augusta,Richmond,October 1,April 30,125,74,199,True
+413,GA,Augusta,Richmond,May 1,June 30,110,74,184,True
+413,GA,Augusta,Richmond,July 1,September 30,125,74,199,True
+115,GA,Jekyll Island / Brunswick,Glynn,October 1,February 28,172,86,258,True
+115,GA,Jekyll Island / Brunswick,Glynn,March 1,July 31,223,86,309,True
+115,GA,Jekyll Island / Brunswick,Glynn,August 1,September 30,172,86,258,True
+494,GA,Marietta,Cobb,,,126,74,200,False
+116,GA,Savannah,Chatham,October 1,February 28,147,80,227,True
+116,GA,Savannah,Chatham,March 1,April 30,176,80,256,True
+116,GA,Savannah,Chatham,May 1,September 30,147,80,227,True
+476,IA,Dallas,Dallas,,,115,80,195,False
+118,IA,Des Moines,Polk,,,121,80,201,False
+495,ID,Boise,Ada,October 1,October 31,191,86,277,True
+495,ID,Boise,Ada,November 1,May 31,167,86,253,True
+495,ID,Boise,Ada,June 1,September 30,191,86,277,True
+120,ID,Coeur d'Alene,Kootenai,October 1,May 31,142,74,216,True
+120,ID,Coeur d'Alene,Kootenai,June 1,August 31,217,74,291,True
+120,ID,Coeur d'Alene,Kootenai,September 1,September 30,142,74,216,True
+122,ID,Sun Valley / Ketchum,Blaine / Elmore,October 1,November 30,191,80,271,True
+122,ID,Sun Valley / Ketchum,Blaine / Elmore,December 1,March 31,300,80,380,True
+122,ID,Sun Valley / Ketchum,Blaine / Elmore,April 1,May 31,181,80,261,True
+122,ID,Sun Valley / Ketchum,Blaine / Elmore,June 1,September 30,295,80,375,True
+422,IL,Bolingbrook / Romeoville / Lemont,Will,,,114,74,188,False
+123,IL,Chicago,Cook / Lake,October 1,November 30,223,92,315,True
+123,IL,Chicago,Cook / Lake,December 1,March 31,142,92,234,True
+123,IL,Chicago,Cook / Lake,April 1,June 30,234,92,326,True
+123,IL,Chicago,Cook / Lake,July 1,August 31,202,92,294,True
+123,IL,Chicago,Cook / Lake,September 1,September 30,223,92,315,True
+462,IL,East St. Louis / O'Fallon / Fairview Heights,St. Clair,,,150,86,236,False
+124,IL,Oak Brook Terrace,DuPage,,,115,80,195,False
+127,IN,Bloomington ,Monroe,October 1,April 30,110,74,184,True
+127,IN,Bloomington ,Monroe,May 1,August 31,139,74,213,True
+127,IN,Bloomington ,Monroe,September 1,September 30,110,74,184,True
+130,IN,Indianapolis / Carmel,Marion / Hamilton,,,133,80,213,False
+131,IN,Lafayette / West Lafayette,Tippecanoe,October 1,July 31,123,74,197,True
+131,IN,Lafayette / West Lafayette,Tippecanoe,August 1,September 30,143,74,217,True
+137,KS,Kansas City / Overland Park,Wyandotte / Johnson / Leavenworth,,,135,80,215,False
+139,KY,Boone,Boone,,,116,68,184,False
+436,KY,Kenton,Kenton,,,163,86,249,False
+140,KY,Lexington,Fayette,,,118,80,198,False
+141,KY,Louisville,Jefferson,October 1,October 31,164,80,244,True
+141,KY,Louisville,Jefferson,November 1,January 31,120,80,200,True
+141,KY,Louisville,Jefferson,February 1,May 31,155,80,235,True
+141,KY,Louisville,Jefferson,June 1,August 31,134,80,214,True
+141,KY,Louisville,Jefferson,September 1,September 30,164,80,244,True
+478,LA,Alexandria / Leesville / Natchitoches,Allen / Jefferson Davis / Natchitoches / Rapides / Vernon Parishes,,,112,68,180,False
+144,LA,New Orleans,Orleans / Jefferson Parishes,October 1,January 31,157,80,237,True
+144,LA,New Orleans,Orleans / Jefferson Parishes,February 1,May 31,179,80,259,True
+144,LA,New Orleans,Orleans / Jefferson Parishes,June 1,August 31,133,80,213,True
+144,LA,New Orleans,Orleans / Jefferson Parishes,September 1,September 30,157,80,237,True
+147,MA,Andover,Essex,,,137,80,217,False
+148,MA,Boston / Cambridge,"Suffolk, city of Cambridge",October 1,October 31,349,92,441,True
+148,MA,Boston / Cambridge,"Suffolk, city of Cambridge",November 1,February 28,209,92,301,True
+148,MA,Boston / Cambridge,"Suffolk, city of Cambridge",March 1,August 31,291,92,383,True
+148,MA,Boston / Cambridge,"Suffolk, city of Cambridge",September 1,September 30,349,92,441,True
+149,MA,Burlington / Woburn,Middlesex less the city of Cambridge,October 1,October 31,178,86,264,True
+149,MA,Burlington / Woburn,Middlesex less the city of Cambridge,November 1,April 30,144,86,230,True
+149,MA,Burlington / Woburn,Middlesex less the city of Cambridge,May 1,September 30,178,86,264,True
+150,MA,Falmouth,City limits of Falmouth,October 1,June 30,142,86,228,True
+150,MA,Falmouth,City limits of Falmouth,July 1,August 31,253,86,339,True
+150,MA,Falmouth,City limits of Falmouth,September 1,September 30,142,86,228,True
+151,MA,Hyannis,Barnstable less the city of Falmouth,October 1,June 30,131,92,223,True
+151,MA,Hyannis,Barnstable less the city of Falmouth,July 1,August 31,209,92,301,True
+151,MA,Hyannis,Barnstable less the city of Falmouth,September 1,September 30,131,92,223,True
+152,MA,Martha's Vineyard,Dukes,October 1,May 31,196,92,288,True
+152,MA,Martha's Vineyard,Dukes,June 1,September 30,462,92,554,True
+153,MA,Nantucket,Nantucket,October 1,May 31,175,92,267,True
+153,MA,Nantucket,Nantucket,June 1,September 30,471,92,563,True
+154,MA,Northampton,Hampshire,,,157,80,237,False
+155,MA,Pittsfield,Berkshire,October 1,June 30,136,86,222,True
+155,MA,Pittsfield,Berkshire,July 1,August 31,178,86,264,True
+155,MA,Pittsfield,Berkshire,September 1,September 30,136,86,222,True
+156,MA,Plymouth / Taunton / New Bedford,Plymouth / Bristol,,,126,80,206,False
+157,MA,Quincy,Norfolk,October 1,October 31,175,80,255,True
+157,MA,Quincy,Norfolk,November 1,April 30,139,80,219,True
+157,MA,Quincy,Norfolk,May 1,September 30,175,80,255,True
+158,MA,Springfield,Hampden,,,128,74,202,False
+160,MA,Worcester,Worcester,,,135,80,215,False
+161,MD,Aberdeen / Bel Air / Belcamp,Harford,,,113,74,187,False
+162,MD,Annapolis,Anne Arundel,October 1,October 31,161,80,241,True
+162,MD,Annapolis,Anne Arundel,November 1,April 30,125,80,205,True
+162,MD,Annapolis,Anne Arundel,May 1,September 30,161,80,241,True
+163,MD,Baltimore City,Baltimore City,,,150,86,236,False
+164,MD,Cambridge / St. Michaels,Dorchester / Talbot,October 1,May 31,145,80,225,True
+164,MD,Cambridge / St. Michaels,Dorchester / Talbot,June 1,August 31,186,80,266,True
+164,MD,Cambridge / St. Michaels,Dorchester / Talbot,September 1,September 30,145,80,225,True
+473,MD,Centreville,Queen Anne,October 1,October 31,154,74,228,True
+473,MD,Centreville,Queen Anne,November 1,April 30,121,74,195,True
+473,MD,Centreville,Queen Anne,May 1,September 30,154,74,228,True
+165,MD,Columbia,Howard,,,113,86,199,False
+170,MD,Ocean City,Worcester,October 1,May 31,115,80,195,True
+170,MD,Ocean City,Worcester,June 1,August 31,295,80,375,True
+170,MD,Ocean City,Worcester,September 1,September 30,115,80,195,True
+171,ME,Bar Harbor / Rockport,Hancock / Knox,October 1,October 31,264,92,356,True
+171,ME,Bar Harbor / Rockport,Hancock / Knox,November 1,April 30,128,92,220,True
+171,ME,Bar Harbor / Rockport,Hancock / Knox,May 1,June 30,209,92,301,True
+171,ME,Bar Harbor / Rockport,Hancock / Knox,July 1,August 31,304,92,396,True
+171,ME,Bar Harbor / Rockport,Hancock / Knox,September 1,September 30,264,92,356,True
+172,ME,Kennebunk / Kittery / Sanford,York ,October 1,October 31,153,86,239,True
+172,ME,Kennebunk / Kittery / Sanford,York ,November 1,June 30,119,86,205,True
+172,ME,Kennebunk / Kittery / Sanford,York ,July 1,August 31,201,86,287,True
+172,ME,Kennebunk / Kittery / Sanford,York ,September 1,September 30,153,86,239,True
+173,ME,Portland,Cumberland / Sagadahoc,October 1,October 31,199,80,279,True
+173,ME,Portland,Cumberland / Sagadahoc,November 1,May 31,114,80,194,True
+173,ME,Portland,Cumberland / Sagadahoc,June 1,August 31,211,80,291,True
+173,ME,Portland,Cumberland / Sagadahoc,September 1,September 30,199,80,279,True
+175,MI,Ann Arbor,Washtenaw,October 1,March 31,125,80,205,True
+175,MI,Ann Arbor,Washtenaw,April 1,August 31,146,80,226,True
+175,MI,Ann Arbor,Washtenaw,September 1,September 30,125,80,205,True
+178,MI,Detroit,Wayne,,,152,74,226,False
+183,MI,Grand Rapids,Kent,,,119,80,199,False
+184,MI,Holland,Ottawa,October 1,April 30,116,74,190,True
+184,MI,Holland,Ottawa,May 1,August 31,157,74,231,True
+184,MI,Holland,Ottawa,September 1,September 30,116,74,190,True
+187,MI,Mackinac Island,Mackinac,October 1,June 30,120,86,206,True
+187,MI,Mackinac Island,Mackinac,July 1,August 31,195,86,281,True
+187,MI,Mackinac Island,Mackinac,September 1,September 30,120,86,206,True
+188,MI,Midland,Midland,,,120,74,194,False
+190,MI,Muskegon,Muskegon,October 1,May 31,110,68,178,True
+190,MI,Muskegon,Muskegon,June 1,August 31,149,68,217,True
+190,MI,Muskegon,Muskegon,September 1,September 30,110,68,178,True
+192,MI,Petoskey,Emmet,October 1,October 31,171,86,257,True
+192,MI,Petoskey,Emmet,November 1,May 31,116,86,202,True
+192,MI,Petoskey,Emmet,June 1,August 31,220,86,306,True
+192,MI,Petoskey,Emmet,September 1,September 30,171,86,257,True
+193,MI,Pontiac / Auburn Hills ,Oakland,,,116,80,196,False
+195,MI,South Haven,Van Buren,October 1,May 31,110,68,178,True
+195,MI,South Haven,Van Buren,June 1,August 31,142,68,210,True
+195,MI,South Haven,Van Buren,September 1,September 30,110,68,178,True
+196,MI,Traverse City,Grand Traverse,October 1,June 30,134,80,214,True
+196,MI,Traverse City,Grand Traverse,July 1,August 31,235,80,315,True
+196,MI,Traverse City,Grand Traverse,September 1,September 30,134,80,214,True
+199,MN,Duluth,St. Louis,October 1,October 31,220,86,306,True
+199,MN,Duluth,St. Louis,November 1,May 31,159,86,245,True
+199,MN,Duluth,St. Louis,June 1,September 30,220,86,306,True
+201,MN,Minneapolis / St. Paul,Hennepin / Ramsey,,,148,92,240,False
+202,MN,Rochester,Olmsted,,,127,80,207,False
+204,MO,Kansas City,Jackson / Clay / Cass / Platte,,,135,80,215,False
+207,MO,St. Louis,St. Louis / St. Louis City / St. Charles,,,150,86,236,False
+477,MS,Oxford,Lafayette,,,127,68,195,False
+447,MS,Southaven,Desoto,,,126,68,194,False
+211,MS,Starkville ,Oktibbeha,,,125,68,193,False
+215,MT,Big Sky / West Yellowstone/Gardiner,Gallatin/Park,October 1,May 31,176,80,256,True
+215,MT,Big Sky / West Yellowstone/Gardiner,Gallatin/Park,June 1,September 30,310,80,390,True
+426,MT,Helena,Lewis and Clark,,,132,74,206,False
+496,MT,Kalispell/Whitefish,Flathead,October 1,June 30,124,80,204,True
+496,MT,Kalispell/Whitefish,Flathead,July 1,September 30,232,80,312,True
+213,MT,Missoula,Missoula,October 1,May 31,130,74,204,True
+213,MT,Missoula,Missoula,June 1,September 30,195,74,269,True
+216,NC,Asheville ,Buncombe,October 1,December 31,141,80,221,True
+216,NC,Asheville ,Buncombe,January 1,September 30,120,80,200,True
+217,NC,Atlantic Beach / Morehead City,Carteret,October 1,April 30,123,74,197,True
+217,NC,Atlantic Beach / Morehead City,Carteret,May 1,August 31,178,74,252,True
+217,NC,Atlantic Beach / Morehead City,Carteret,September 1,September 30,123,74,197,True
+218,NC,Chapel Hill,Orange,,,140,80,220,False
+219,NC,Charlotte,Mecklenburg,,,131,80,211,False
+221,NC,Durham,Durham,,,121,74,195,False
+464,NC,Fayetteville,Cumberland,,,124,68,192,False
+222,NC,Greensboro,Guilford,October 1,October 31,123,74,197,True
+222,NC,Greensboro,Guilford,November 1,February 28,112,74,186,True
+222,NC,Greensboro,Guilford,March 1,September 30,123,74,197,True
+224,NC,Kill Devil Hills,Dare,October 1,March 31,133,74,207,True
+224,NC,Kill Devil Hills,Dare,April 1,May 31,190,74,264,True
+224,NC,Kill Devil Hills,Dare,June 1,August 31,254,74,328,True
+224,NC,Kill Devil Hills,Dare,September 1,September 30,133,74,207,True
+227,NC,Raleigh,Wake,,,131,74,205,False
+229,NC,Wilmington,New Hanover,October 1,October 31,147,74,221,True
+229,NC,Wilmington,New Hanover,November 1,February 28,110,74,184,True
+229,NC,Wilmington,New Hanover,March 1,September 30,147,74,221,True
+231,NE,Omaha,Douglas,,,122,80,202,False
+232,NH,Concord,Merrimack,,,124,74,198,False
+233,NH,Conway,Caroll,October 1,February 28,144,80,224,True
+233,NH,Conway,Caroll,March 1,June 30,118,80,198,True
+233,NH,Conway,Caroll,July 1,August 31,161,80,241,True
+233,NH,Conway,Caroll,September 1,September 30,144,80,224,True
+234,NH,Durham,Strafford,October 1,June 30,125,74,199,True
+234,NH,Durham,Strafford,July 1,August 31,152,74,226,True
+234,NH,Durham,Strafford,September 1,September 30,125,74,199,True
+235,NH,Laconia,Belknap,October 1,October 31,182,74,256,True
+235,NH,Laconia,Belknap,November 1,May 31,140,74,214,True
+235,NH,Laconia,Belknap,June 1,September 30,182,74,256,True
+236,NH,Lebanon / Lincoln / West Lebanon,Grafton,October 1,October 31,177,74,251,True
+236,NH,Lebanon / Lincoln / West Lebanon,Grafton,November 1,May 31,142,74,216,True
+236,NH,Lebanon / Lincoln / West Lebanon,Grafton,June 1,September 30,177,74,251,True
+237,NH,Manchester,Hillsborough,,,130,74,204,False
+238,NH,Portsmouth,Rockingham,October 1,October 31,171,74,245,True
+238,NH,Portsmouth,Rockingham,November 1,June 30,129,74,203,True
+238,NH,Portsmouth,Rockingham,July 1,August 31,192,74,266,True
+238,NH,Portsmouth,Rockingham,September 1,September 30,171,74,245,True
+241,NJ,Cherry Hill / Moorestown,Camden / Burlington,,,112,80,192,False
+242,NJ,Eatontown / Freehold,Monmouth,,,146,86,232,False
+243,NJ,Edison / Piscataway,Middlesex ,,,122,80,202,False
+244,NJ,Flemington,Hunterdon,,,124,80,204,False
+246,NJ,Newark,Essex / Bergen / Hudson / Passaic,,,156,86,242,False
+247,NJ,Parsippany,Morris,,,143,80,223,False
+249,NJ,Princeton / Trenton,Mercer,,,138,86,224,False
+248,NJ,Somerset,Somerset,,,138,80,218,False
+250,NJ,Springfield / Cranford / New Providence,Union,,,139,80,219,False
+251,NJ,Toms River,Ocean,October 1,June 30,166,74,240,True
+251,NJ,Toms River,Ocean,July 1,August 31,213,74,287,True
+251,NJ,Toms River,Ocean,September 1,September 30,166,74,240,True
+252,NM,Albuquerque,Bernalillo,,,144,80,224,False
+479,NM,Carlsbad,Eddy,,,155,74,229,False
+254,NM,Santa Fe,Santa Fe,October 1,October 31,167,80,247,True
+254,NM,Santa Fe,Santa Fe,November 1,December 31,142,80,222,True
+254,NM,Santa Fe,Santa Fe,January 1,February 28,122,80,202,True
+254,NM,Santa Fe,Santa Fe,March 1,September 30,167,80,247,True
+423,NM,Taos,Taos,,,128,74,202,False
+255,NV,Incline Village / Reno / Sparks,Washoe,October 1,June 30,138,80,218,True
+255,NV,Incline Village / Reno / Sparks,Washoe,July 1,August 31,184,80,264,True
+255,NV,Incline Village / Reno / Sparks,Washoe,September 1,September 30,138,80,218,True
+256,NV,Las Vegas,Clark,October 1,December 31,126,86,212,True
+256,NV,Las Vegas,Clark,January 1,March 31,159,86,245,True
+256,NV,Las Vegas,Clark,April 1,September 30,126,86,212,True
+258,NY,Albany,Albany,,,117,86,203,False
+269,NY,Binghamton,Broome,,,117,74,191,False
+260,NY,Buffalo,Erie,October 1,June 30,126,80,206,True
+260,NY,Buffalo,Erie,July 1,August 31,139,80,219,True
+260,NY,Buffalo,Erie,September 1,September 30,126,80,206,True
+261,NY,Floral Park / Garden City / Great Neck,Nassau,,,164,86,250,False
+262,NY,Glens Falls,Warren,October 1,June 30,117,86,203,True
+262,NY,Glens Falls,Warren,July 1,August 31,186,86,272,True
+262,NY,Glens Falls,Warren,September 1,September 30,117,86,203,True
+277,NY,Ithaca,Tompkins,,,144,80,224,False
+264,NY,Kingston,Ulster,,,139,86,225,False
+265,NY,Lake Placid,Essex,October 1,February 28,165,86,251,True
+265,NY,Lake Placid,Essex,March 1,June 30,144,86,230,True
+265,NY,Lake Placid,Essex,July 1,August 31,238,86,324,True
+265,NY,Lake Placid,Essex,September 1,September 30,165,86,251,True
+266,NY,New York City,Bronx / Kings / New York / Queens / Richmond,October 1,December 31,342,92,434,True
+266,NY,New York City,Bronx / Kings / New York / Queens / Richmond,January 1,February 28,179,92,271,True
+266,NY,New York City,Bronx / Kings / New York / Queens / Richmond,March 1,June 30,281,92,373,True
+266,NY,New York City,Bronx / Kings / New York / Queens / Richmond,July 1,August 31,237,92,329,True
+266,NY,New York City,Bronx / Kings / New York / Queens / Richmond,September 1,September 30,342,92,434,True
+267,NY,Niagara Falls,Niagara,October 1,May 31,110,80,190,True
+267,NY,Niagara Falls,Niagara,June 1,August 31,142,80,222,True
+267,NY,Niagara Falls,Niagara,September 1,September 30,110,80,190,True
+268,NY,Nyack / Palisades,Rockland,,,129,80,209,False
+270,NY,Poughkeepsie,Dutchess,,,115,80,195,False
+271,NY,Riverhead / Ronkonkoma / Melville,Suffolk,,,155,86,241,False
+272,NY,Rochester,Monroe,,,132,80,212,False
+273,NY,Saratoga Springs / Schenectady,Saratoga / Schenectady,October 1,June 30,126,80,206,True
+273,NY,Saratoga Springs / Schenectady,Saratoga / Schenectady,July 1,August 31,214,80,294,True
+273,NY,Saratoga Springs / Schenectady,Saratoga / Schenectady,September 1,September 30,126,80,206,True
+274,NY,Syracuse / Oswego,Onondaga / Oswego,,,122,80,202,False
+275,NY,Tarrytown / White Plains / New Rochelle,Westchester,,,161,92,253,False
+276,NY,Troy ,Rensselaer,,,121,80,201,False
+278,NY,West Point,Orange,,,123,80,203,False
+282,OH,Cincinnati,Hamilton / Clermont,,,163,86,249,False
+283,OH,Cleveland,Cuyahoga,,,159,80,239,False
+284,OH,Columbus,Franklin,,,131,80,211,False
+285,OH,Dayton / Fairborn,Greene / Montgomery,,,115,74,189,False
+287,OH,Hamilton,Butler / Warren,,,124,74,198,False
+280,OH,Sandusky,Erie,October 1,November 30,116,68,184,True
+280,OH,Sandusky,Erie,December 1,August 31,144,68,212,True
+280,OH,Sandusky,Erie,September 1,September 30,116,68,184,True
+295,OK,Oklahoma City,Oklahoma,,,116,80,196,False
+298,OR,Beaverton,Washington,,,132,80,212,False
+299,OR,Bend,Deschutes,October 1,May 31,125,86,211,True
+299,OR,Bend,Deschutes,June 1,August 31,192,86,278,True
+299,OR,Bend,Deschutes,September 1,September 30,125,86,211,True
+300,OR,Clackamas,Clackamas,,,136,80,216,False
+302,OR,Eugene / Florence,Lane,October 1,May 31,132,80,212,True
+302,OR,Eugene / Florence,Lane,June 1,July 31,192,80,272,True
+302,OR,Eugene / Florence,Lane,August 1,September 30,162,80,242,True
+304,OR,Lincoln City,Lincoln,October 1,June 30,120,92,212,True
+304,OR,Lincoln City,Lincoln,July 1,August 31,167,92,259,True
+304,OR,Lincoln City,Lincoln,September 1,September 30,120,92,212,True
+305,OR,Portland,Multnomah,,,155,86,241,False
+306,OR,Seaside,Clatsop,October 1,June 30,141,86,227,True
+306,OR,Seaside,Clatsop,July 1,August 31,236,86,322,True
+306,OR,Seaside,Clatsop,September 1,September 30,141,86,227,True
+307,PA,Allentown / Easton / Bethlehem,Lehigh / Northampton,,,115,74,189,False
+313,PA,Bucks,Bucks,,,119,80,199,False
+309,PA,Chester / Radnor / Essington,Delaware,,,127,80,207,False
+311,PA,Gettysburg,Adams,October 1,October 31,122,68,190,True
+311,PA,Gettysburg,Adams,November 1,March 31,110,68,178,True
+311,PA,Gettysburg,Adams,April 1,September 30,122,68,190,True
+312,PA,Harrisburg,Dauphin County excluding Hershey,,,124,74,198,False
+489,PA,Hershey,Hershey,October 1,May 31,145,80,225,True
+489,PA,Hershey,Hershey,June 1,August 31,196,80,276,True
+489,PA,Hershey,Hershey,September 1,September 30,145,80,225,True
+314,PA,Lancaster,Lancaster,,,123,74,197,False
+315,PA,Malvern / Frazer / Berwyn,Chester,,,118,80,198,False
+435,PA,Montgomery,Montgomery,,,126,80,206,False
+317,PA,Philadelphia,Philadelphia,October 1,November 30,218,92,310,True
+317,PA,Philadelphia,Philadelphia,December 1,March 31,156,92,248,True
+317,PA,Philadelphia,Philadelphia,April 1,August 31,187,92,279,True
+317,PA,Philadelphia,Philadelphia,September 1,September 30,218,92,310,True
+318,PA,Pittsburgh,Allegheny,,,138,80,218,False
+319,PA,Reading,Berks,,,117,74,191,False
+321,PA,State College ,Centre,,,124,74,198,False
+323,RI,Jamestown / Middletown / Newport,Newport ,October 1,October 31,218,80,298,True
+323,RI,Jamestown / Middletown / Newport,Newport ,November 1,May 31,141,80,221,True
+323,RI,Jamestown / Middletown / Newport,Newport ,June 1,August 31,268,80,348,True
+323,RI,Jamestown / Middletown / Newport,Newport ,September 1,September 30,218,80,298,True
+325,RI,Providence / Bristol,Providence / Bristol,,,154,80,234,False
+326,SC,Charleston,Charleston / Berkeley / Dorchester,October 1,October 31,244,92,336,True
+326,SC,Charleston,Charleston / Berkeley / Dorchester,November 1,February 28,218,92,310,True
+326,SC,Charleston,Charleston / Berkeley / Dorchester,March 1,May 31,288,92,380,True
+326,SC,Charleston,Charleston / Berkeley / Dorchester,June 1,September 30,244,92,336,True
+327,SC,Columbia,Richland / Lexington,,,115,74,189,False
+329,SC,Hilton Head,Beaufort,October 1,October 31,163,80,243,True
+329,SC,Hilton Head,Beaufort,November 1,February 28,118,80,198,True
+329,SC,Hilton Head,Beaufort,March 1,May 31,193,80,273,True
+329,SC,Hilton Head,Beaufort,June 1,August 31,215,80,295,True
+329,SC,Hilton Head,Beaufort,September 1,September 30,163,80,243,True
+330,SC,Myrtle Beach,Horry,October 1,March 31,110,74,184,True
+330,SC,Myrtle Beach,Horry,April 1,May 31,132,74,206,True
+330,SC,Myrtle Beach,Horry,June 1,August 31,182,74,256,True
+330,SC,Myrtle Beach,Horry,September 1,September 30,110,74,184,True
+334,SD,Deadwood / Spearfish ,Lawrence,October 1,October 31,140,80,220,True
+334,SD,Deadwood / Spearfish ,Lawrence,November 1,April 30,110,80,190,True
+334,SD,Deadwood / Spearfish ,Lawrence,May 1,September 30,140,80,220,True
+332,SD,Hot Springs,Fall River / Custer,October 1,May 31,110,74,184,True
+332,SD,Hot Springs,Fall River / Custer,June 1,September 30,161,74,235,True
+333,SD,Rapid City,Pennington,October 1,May 31,110,74,184,True
+333,SD,Rapid City,Pennington,June 1,August 31,158,74,232,True
+333,SD,Rapid City,Pennington,September 1,September 30,110,74,184,True
+335,TN,Brentwood / Franklin,Williamson,,,130,86,216,False
+336,TN,Chattanooga ,Hamilton,,,117,74,191,False
+338,TN,Knoxville,Knox,,,119,74,193,False
+339,TN,Memphis,Shelby,,,129,74,203,False
+340,TN,Nashville,Davidson,October 1,October 31,248,86,334,True
+340,TN,Nashville,Davidson,November 1,August 31,217,86,303,True
+340,TN,Nashville,Davidson,September 1,September 30,248,86,334,True
+342,TX,Arlington / Fort Worth / Grapevine,Tarrant County / City of Grapevine,,,181,80,261,False
+343,TX,Austin,Travis,October 1,December 31,173,80,253,True
+343,TX,Austin,Travis,January 1,March 31,187,80,267,True
+343,TX,Austin,Travis,April 1,September 30,173,80,253,True
+486,TX,Big Spring,Howard,,,114,68,182,False
+346,TX,Dallas,Dallas ,October 1,December 31,170,80,250,True
+346,TX,Dallas,Dallas ,January 1,March 31,191,80,271,True
+346,TX,Dallas,Dallas ,April 1,September 30,170,80,250,True
+348,TX,Galveston,Galveston,October 1,May 31,111,74,185,True
+348,TX,Galveston,Galveston,June 1,July 31,146,74,220,True
+348,TX,Galveston,Galveston,August 1,September 30,111,74,185,True
+350,TX,Houston,Montgomery / Fort Bend / Harris,,,128,80,208,False
+471,TX,Midland / Odessa,Midland / Andrews / Ector / Martin,October 1,October 31,132,74,206,True
+471,TX,Midland / Odessa,Midland / Andrews / Ector / Martin,November 1,January 31,118,74,192,True
+471,TX,Midland / Odessa,Midland / Andrews / Ector / Martin,February 1,September 30,132,74,206,True
+492,TX,Pecos,Reeves,,,121,74,195,False
+354,TX,Plano,Collin,,,123,80,203,False
+356,TX,San Antonio,Bexar,October 1,January 31,137,74,211,True
+356,TX,San Antonio,Bexar,February 1,March 31,161,74,235,True
+356,TX,San Antonio,Bexar,April 1,September 30,137,74,211,True
+357,TX,South Padre Island,Cameron,October 1,February 28,118,74,192,True
+357,TX,South Padre Island,Cameron,March 1,July 31,140,74,214,True
+357,TX,South Padre Island,Cameron,August 1,September 30,118,74,192,True
+474,UT,Moab,Grand,October 1,October 31,221,86,307,True
+474,UT,Moab,Grand,November 1,February 28,110,86,196,True
+474,UT,Moab,Grand,March 1,June 30,212,86,298,True
+474,UT,Moab,Grand,July 1,August 31,166,86,252,True
+474,UT,Moab,Grand,September 1,September 30,221,86,307,True
+360,UT,Park City,Summit,October 1,November 30,221,92,313,True
+360,UT,Park City,Summit,December 1,March 31,483,92,575,True
+360,UT,Park City,Summit,April 1,September 30,221,92,313,True
+361,UT,Provo,Utah,,,117,74,191,False
+362,UT,Salt Lake City,Salt Lake / Tooele,,,142,80,222,False
+459,VA,Blacksburg,Montgomery,,,122,68,190,False
+363,VA,Charlottesville,City of Charlottesville / Albemarle,,,136,80,216,False
+428,VA,Loudoun,Loudoun,,,115,80,195,False
+365,VA,Lynchburg,Campbell / Lynchburg City,October 1,May 31,115,68,183,True
+365,VA,Lynchburg,Campbell / Lynchburg City,June 1,July 31,110,68,178,True
+365,VA,Lynchburg,Campbell / Lynchburg City,August 1,September 30,115,68,183,True
+368,VA,Richmond,City of Richmond,,,157,80,237,False
+369,VA,Roanoke,City limits of Roanoke,,,119,74,193,False
+371,VA,Virginia Beach,City of Virginia Beach,October 1,May 31,124,74,198,True
+371,VA,Virginia Beach,City of Virginia Beach,June 1,August 31,210,74,284,True
+371,VA,Virginia Beach,City of Virginia Beach,September 1,September 30,124,74,198,True
+372,VA,Wallops Island,Accomack,October 1,June 30,131,68,199,True
+372,VA,Wallops Island,Accomack,July 1,August 31,248,68,316,True
+372,VA,Wallops Island,Accomack,September 1,September 30,131,68,199,True
+374,VA,Williamsburg / York,James City / York Counties / City of Williamsburg,October 1,December 31,115,80,195,True
+374,VA,Williamsburg / York,James City / York Counties / City of Williamsburg,January 1,March 31,110,80,190,True
+374,VA,Williamsburg / York,James City / York Counties / City of Williamsburg,April 1,August 31,134,80,214,True
+374,VA,Williamsburg / York,James City / York Counties / City of Williamsburg,September 1,September 30,115,80,195,True
+377,VT,Burlington,Chittenden,October 1,October 31,202,86,288,True
+377,VT,Burlington,Chittenden,November 1,April 30,128,86,214,True
+377,VT,Burlington,Chittenden,May 1,September 30,202,86,288,True
+378,VT,Manchester,Bennington,October 1,October 31,220,86,306,True
+378,VT,Manchester,Bennington,November 1,July 31,168,86,254,True
+378,VT,Manchester,Bennington,August 1,September 30,220,86,306,True
+379,VT,Montpelier,Washington,October 1,October 31,227,74,301,True
+379,VT,Montpelier,Washington,November 1,July 31,167,74,241,True
+379,VT,Montpelier,Washington,August 1,September 30,227,74,301,True
+380,VT,Stowe ,Lamoille,October 1,February 28,185,86,271,True
+380,VT,Stowe ,Lamoille,March 1,May 31,148,86,234,True
+380,VT,Stowe ,Lamoille,June 1,September 30,185,86,271,True
+381,VT,White River Junction,Windsor,,,144,86,230,False
+384,WA,Everett / Lynnwood,Snohomish,October 1,May 31,113,86,199,True
+384,WA,Everett / Lynnwood,Snohomish,June 1,August 31,140,86,226,True
+384,WA,Everett / Lynnwood,Snohomish,September 1,September 30,113,86,199,True
+385,WA,Ocean Shores,Grays Harbor,October 1,June 30,110,86,196,True
+385,WA,Ocean Shores,Grays Harbor,July 1,August 31,132,86,218,True
+385,WA,Ocean Shores,Grays Harbor,September 1,September 30,110,86,196,True
+386,WA,Olympia / Tumwater,Thurston,October 1,November 30,128,80,208,True
+386,WA,Olympia / Tumwater,Thurston,December 1,June 30,151,80,231,True
+386,WA,Olympia / Tumwater,Thurston,July 1,August 31,175,80,255,True
+386,WA,Olympia / Tumwater,Thurston,September 1,September 30,128,80,208,True
+387,WA,Port Angeles / Port Townsend,Clallam / Jefferson,October 1,June 30,137,92,229,True
+387,WA,Port Angeles / Port Townsend,Clallam / Jefferson,July 1,August 31,235,92,327,True
+387,WA,Port Angeles / Port Townsend,Clallam / Jefferson,September 1,September 30,137,92,229,True
+475,WA,Richland / Pasco,Benton / Franklin,,,130,86,216,False
+389,WA,Seattle,King,October 1,May 31,188,92,280,True
+389,WA,Seattle,King,June 1,September 30,248,92,340,True
+390,WA,Spokane,Spokane,,,126,86,212,False
+391,WA,Tacoma,Pierce,,,136,86,222,False
+392,WA,Vancouver,Clark / Cowlitz / Skamania,,,155,86,241,False
+396,WI,Madison,Dane,October 1,October 31,138,80,218,True
+396,WI,Madison,Dane,November 1,April 30,110,80,190,True
+396,WI,Madison,Dane,May 1,September 30,138,80,218,True
+397,WI,Milwaukee,Milwaukee,,,140,80,220,False
+400,WI,Sturgeon Bay,Door,October 1,October 31,133,80,213,True
+400,WI,Sturgeon Bay,Door,November 1,May 31,110,80,190,True
+400,WI,Sturgeon Bay,Door,June 1,September 30,133,80,213,True
+406,WV,Charles Town,Jefferson,,,122,68,190,False
+403,WV,Charleston,Kanawha,,,115,68,183,False
+408,WY,Cody,Park,October 1,May 31,127,74,201,True
+408,WY,Cody,Park,June 1,September 30,190,74,264,True
+409,WY,Jackson / Pinedale,Teton / Sublette,October 1,May 31,212,92,304,True
+409,WY,Jackson / Pinedale,Teton / Sublette,June 1,September 30,420,92,512,True
