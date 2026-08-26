@@ -1,0 +1,25 @@
+{
+  "gsa_master_xlsx": {
+    "url": "https://www.gsa.gov/system/files/FY2026_PerDiemMasterRatesFile.xlsx",
+    "page": "https://www.gsa.gov/travel/plan-a-trip/per-diem-rates/per-diem-files",
+    "file": "sources/FY2026_PerDiemMasterRatesFile.xlsx",
+    "note": "Official GSA FY2026 CONUS per diem master file. US Government work."
+  },
+  "gsa_bulletin": {
+    "url": "https://www.gsa.gov/policy-regulations/regulations/federal-travel-regulation/ftr-and-related-files/gsa-per-diem-bulletin-ftr-2601",
+    "note": "FTR 26-01: FY2026 rates held at FY2025 levels. Standard lodging $110, M&IE $68\u2013$92."
+  },
+  "mie_breakdown": {
+    "url": "https://www.gsa.gov/travel/plan-a-trip/per-diem-rates/mie-breakdowns",
+    "note": "FY25-present M&IE meal splits; first/last day = 75% of total."
+  },
+  "gsa_pov": {
+    "url": "https://www.gsa.gov/travel/plan-a-trip/transportation-airfare-rates-pov-rates/pov-mileage-reimbursement",
+    "note": "GSA POV mileage. $0.76 auto from Jul 1 2026; $0.725 Jan\u2013Jun 2026."
+  },
+  "irs_mileage": {
+    "url": "https://www.irs.gov/tax-professionals/standard-mileage-rates",
+    "note": "IRS business standard mileage 76\u00a2 (Jul\u2013Dec 2026), 72.5\u00a2 (Jan\u2013Jun 2026)."
+  },
+  "disclaimer": "Rates are for pricing travel into bids and employee reimbursement estimates. Not a billing determination. Verify live rates at gsa.gov before voucher. OCONUS (AK/HI/territories/foreign) not included \u2014 DoD/State set those."
+}
