@@ -1,0 +1,6 @@
+trip_id,traveler_count,destination,state,start,end,pov_miles,notes
+T-001,1,Austin,TX,2026-03-09,2026-03-12,0,On-site; no POV
+T-002,1,New York City,NY,2026-09-14,2026-09-18,0,Peak September lodging
+T-003,1,New York City,NY,2026-01-12,2026-01-16,80,Off-peak + local POV
+T-004,2,District of Columbia,DC,2026-03-03,2026-03-05,0,Two PMs, March peak
+T-005,1,Standard CONUS,CONUS,2026-06-01,2026-06-04,120,Unlisted county; $110+$68
