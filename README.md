@@ -34,7 +34,7 @@ No API keys. Files work after Gamut credits are gone.
 
 ## Price
 
-$49 USD. Unlimited non-exclusive buyers; copies may be resold. If a Stripe Payment Link exists, pay there, then open a GitHub issue titled `CLAIM: CONUS Per Diem Bid Desk` with the receipt last-4. If checkout is down, star + watch and open the same CLAIM issue.
+$49 USD. Unlimited non-exclusive buyers; copies may be resold. Pay https://buy.stripe.com/6oU8wQ05i9357FE27HcIE03 then open a GitHub issue titled `CLAIM: CONUS Per Diem Bid Desk` with the receipt last-4. If checkout is down, star + watch and open the same CLAIM issue.
 
 ## License
 
