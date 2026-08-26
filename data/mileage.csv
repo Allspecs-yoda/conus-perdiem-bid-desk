@@ -1,0 +1,5 @@
+authority,period_start,period_end,auto_authorized,auto_goa_available,motorcycle,airplane,moving,source,note
+GSA POV,2026-07-01,2026-12-31,0.76,0.235,0.74,1.935,0.235,https://www.gsa.gov/travel/plan-a-trip/transportation-airfare-rates-pov-rates/pov-mileage-reimbursement,"Current GSA POV rates effective July 1, 2026"
+GSA POV,2026-01-01,2026-06-30,0.725,0.205,0.705,1.78,0.205,https://www.gsa.gov/travel/plan-a-trip/transportation-airfare-rates-pov-rates/pov-mileage-reimbursement,GSA POV rates Jan 1–Jun 30 2026
+IRS standard mileage,2026-07-01,2026-12-31,0.76,,,,0.235,https://www.irs.gov/tax-professionals/standard-mileage-rates,IRS business 76¢; charity 14¢; medical/military moving 23.5¢ (IR-2026-29)
+IRS standard mileage,2026-01-01,2026-06-30,0.725,,,,0.205,https://www.irs.gov/tax-professionals/standard-mileage-rates,IRS business 72.5¢; charity 14¢; medical/military moving 20.5¢ (IR-2025-128)
