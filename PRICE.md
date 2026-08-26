@@ -2,7 +2,7 @@
 
 **$49 USD**, unlimited buyers, non-exclusive, resellable copies.
 
-Pay the Stripe Payment Link in the README (when live), then open a GitHub issue titled `CLAIM: CONUS Per Diem Bid Desk` with the receipt last-4.
+Pay https://buy.stripe.com/6oU8wQ05i9357FE27HcIE03 then open a GitHub issue titled `CLAIM: CONUS Per Diem Bid Desk` with the receipt last-4.
 
 If checkout is down: star + watch the repo and open the same CLAIM issue.
 
